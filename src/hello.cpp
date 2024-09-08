@@ -2,7 +2,7 @@
 #include <string>
 #include "hello.h"
 
-std::string current_version="1.0";
+std::string current_version="2.0";
 
 void hello(){
     std::cout << "C'est la lib HELLO/"<< current_version<< "\n" << std::endl;
