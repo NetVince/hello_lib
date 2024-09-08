@@ -4,7 +4,7 @@ from conan.tools.cmake import CMakeToolchain, CMake, cmake_layout, CMakeDeps
 
 class helloRecipe(ConanFile):
     name = "hello"
-    version = "2.0"
+    version = "3.0"
     package_type = "library"
 
     # Binary configuration
